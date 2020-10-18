@@ -1,2 +1,2 @@
 # css-buttons
-A collection of resonsive css buttons.
+A collection of responsive css buttons.
